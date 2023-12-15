@@ -18,7 +18,7 @@ WebappStack(
     app,
     "PromptChaining-StreamlitWebapp",
     env=env,
-    parent_domain="TODO FILL IN",
+    parent_domain="dayojohn.people.aws.dev",
 )
 BlogPostStack(
     app,
